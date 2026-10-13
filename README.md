@@ -44,3 +44,7 @@ If the client lists the addon as out of date, find your Interface number in game
 | `/cm reset` | Delete every macro the addon manages |
 
 The addon only edits per-character macros with the same name as one of its macros. It never touches account-wide macros: if an account-wide macro already uses the name, that macro is skipped. When you edit a macro and rebuild, the macro is updated in place, so it stays on your action bars. If you delete a `.macro` file, the addon deletes the macro it created from that file.
+
+## License
+
+[MIT](LICENSE)

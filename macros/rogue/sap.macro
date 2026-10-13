@@ -1,0 +1,2 @@
+#showtooltip Sap
+/use [@mouseover,harm,nodead,nocombat][nocombat]Sap

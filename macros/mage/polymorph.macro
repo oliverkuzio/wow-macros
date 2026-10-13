@@ -1,0 +1,2 @@
+#showtooltip Polymorph
+/use [@mouseover,harm,nodead][]Polymorph

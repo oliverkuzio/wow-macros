@@ -1,0 +1,2 @@
+#showtooltip Drain Life
+/use [@mouseover,harm,nodead][]Drain Life

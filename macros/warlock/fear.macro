@@ -1,0 +1,2 @@
+#showtooltip Fear
+/use [@mouseover,harm,nodead][]Fear

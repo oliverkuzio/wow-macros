@@ -1,0 +1,2 @@
+#showtooltip Hunter's Mark
+/use [@mouseover,harm,nodead][]Hunter's Mark

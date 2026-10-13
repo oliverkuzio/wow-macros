@@ -1,0 +1,3 @@
+#showtooltip [stealth]Ambush;Backstab
+/startattack [nostealth]
+/use [stealth]Ambush;Backstab

@@ -1,0 +1,3 @@
+#showtooltip [form:1]Demoralizing Roar;Rip
+/startattack
+/use [form:1]Demoralizing Roar;[form:3]Rip

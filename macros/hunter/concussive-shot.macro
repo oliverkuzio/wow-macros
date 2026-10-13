@@ -1,0 +1,2 @@
+#showtooltip Concussive Shot
+/use [@mouseover,harm,nodead][]Concussive Shot

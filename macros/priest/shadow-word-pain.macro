@@ -1,0 +1,3 @@
+#name SW Pain
+#showtooltip Shadow Word: Pain
+/use [@mouseover,harm,nodead][]Shadow Word: Pain

@@ -1,0 +1,2 @@
+#showtooltip Kick
+/use [@mouseover,harm,nodead][]Kick

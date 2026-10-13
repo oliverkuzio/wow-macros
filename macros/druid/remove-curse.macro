@@ -1,0 +1,2 @@
+#showtooltip Remove Curse
+/use [@mouseover,help,nodead][]Remove Curse

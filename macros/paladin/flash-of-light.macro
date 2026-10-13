@@ -1,0 +1,2 @@
+#showtooltip Flash of Light
+/use [@mouseover,help,nodead][]Flash of Light

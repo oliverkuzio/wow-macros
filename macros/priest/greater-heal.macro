@@ -1,0 +1,2 @@
+#showtooltip Greater Heal
+/use [@mouseover,help,nodead][]Greater Heal

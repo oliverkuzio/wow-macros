@@ -1,0 +1,3 @@
+#name BoP
+#showtooltip Blessing of Protection
+/use [@mouseover,help,nodead][help,nodead][@player]Blessing of Protection

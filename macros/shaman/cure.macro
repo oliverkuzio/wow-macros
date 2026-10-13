@@ -1,0 +1,2 @@
+#showtooltip [mod:shift]Cure Disease;Cure Poison
+/use [mod:shift,@mouseover,help,nodead][mod:shift]Cure Disease;[@mouseover,help,nodead][]Cure Poison

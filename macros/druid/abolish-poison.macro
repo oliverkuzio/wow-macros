@@ -1,0 +1,2 @@
+#showtooltip Abolish Poison
+/use [@mouseover,help,nodead][]Abolish Poison

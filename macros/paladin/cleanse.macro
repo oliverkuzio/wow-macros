@@ -1,0 +1,2 @@
+#showtooltip Cleanse
+/use [@mouseover,help,nodead][]Cleanse

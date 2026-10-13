@@ -1,0 +1,2 @@
+#showtooltip Rejuvenation
+/use [@mouseover,help,nodead][]Rejuvenation

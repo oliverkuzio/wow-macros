@@ -1,0 +1,2 @@
+#showtooltip Scatter Shot
+/use [@mouseover,harm,nodead][]Scatter Shot

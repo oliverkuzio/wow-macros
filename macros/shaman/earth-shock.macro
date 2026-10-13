@@ -1,0 +1,3 @@
+#showtooltip Earth Shock
+/stopcasting
+/use [@mouseover,harm,nodead][]Earth Shock

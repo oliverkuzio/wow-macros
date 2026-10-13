@@ -1,0 +1,3 @@
+#showtooltip [form:3,stealth]Pounce;Bash
+/startattack
+/use [form:3,stealth]Pounce;[form:1,@mouseover,harm,nodead][form:1]Bash

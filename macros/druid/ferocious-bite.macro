@@ -1,0 +1,3 @@
+#showtooltip [form:1]Swipe;Ferocious Bite
+/startattack
+/use [form:1]Swipe;[form:3]Ferocious Bite

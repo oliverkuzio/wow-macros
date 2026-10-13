@@ -1,3 +1,4 @@
+#name Intim Shout
 #showtooltip
 /use [@mouseover,harm]Intimidating Shout;Intimidating Shout
 /stopattack

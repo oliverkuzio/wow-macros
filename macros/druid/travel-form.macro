@@ -1,0 +1,2 @@
+#showtooltip [swimming]Aquatic Form;Travel Form
+/use [swimming]Aquatic Form;[outdoors]Travel Form

@@ -1,0 +1,2 @@
+#showtooltip Flame Shock
+/use [@mouseover,harm,nodead][]Flame Shock

@@ -1,0 +1,2 @@
+#showtooltip Fire Blast
+/use [@mouseover,harm,nodead][]Fire Blast

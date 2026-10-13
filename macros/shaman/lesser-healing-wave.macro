@@ -1,0 +1,3 @@
+#name Lesser Heal
+#showtooltip Lesser Healing Wave
+/use [@mouseover,help,nodead][]Lesser Healing Wave

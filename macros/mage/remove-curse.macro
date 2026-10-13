@@ -1,0 +1,2 @@
+#showtooltip Remove Lesser Curse
+/use [@mouseover,help,nodead][help,nodead][@player]Remove Lesser Curse

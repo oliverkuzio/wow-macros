@@ -1,0 +1,2 @@
+#showtooltip Corruption
+/use [@mouseover,harm,nodead][]Corruption

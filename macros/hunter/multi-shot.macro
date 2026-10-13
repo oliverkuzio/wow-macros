@@ -1,0 +1,3 @@
+#showtooltip Multi-Shot
+/petattack
+/use [@mouseover,harm,nodead][]Multi-Shot

@@ -1,0 +1,2 @@
+#showtooltip Spell Lock
+/use [@mouseover,harm,nodead][]Spell Lock

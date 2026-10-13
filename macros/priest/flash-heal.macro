@@ -1,0 +1,2 @@
+#showtooltip Flash Heal
+/use [@mouseover,help,nodead][]Flash Heal

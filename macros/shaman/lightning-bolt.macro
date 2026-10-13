@@ -1,0 +1,2 @@
+#showtooltip Lightning Bolt
+/use [@mouseover,harm,nodead][]Lightning Bolt

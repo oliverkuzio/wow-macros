@@ -1,0 +1,2 @@
+#showtooltip Curse of Agony
+/use [@mouseover,harm,nodead][]Curse of Agony

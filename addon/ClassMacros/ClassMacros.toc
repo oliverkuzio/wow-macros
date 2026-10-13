@@ -1,0 +1,9 @@
+## Interface: @INTERFACE@
+## Title: ClassMacros
+## Notes: Creates and updates per-character macros for the class you are playing.
+## Author: Oliver Kuzio
+## Version: 1.0.0
+## SavedVariablesPerCharacter: ClassMacrosDB
+
+Macros.lua
+Core.lua

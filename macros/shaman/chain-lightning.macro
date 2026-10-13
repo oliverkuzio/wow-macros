@@ -1,0 +1,2 @@
+#showtooltip Chain Lightning
+/use [@mouseover,harm,nodead][]Chain Lightning

@@ -1,0 +1,2 @@
+#showtooltip Holy Light
+/use [@mouseover,help,nodead][]Holy Light

@@ -1,0 +1,3 @@
+#showtooltip [stealth]Cheap Shot;Sinister Strike
+/startattack [nostealth]
+/use [stealth]Cheap Shot;Sinister Strike

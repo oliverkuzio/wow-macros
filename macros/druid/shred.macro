@@ -1,0 +1,3 @@
+#showtooltip [form:3,stealth]Ravage;[form:3]Shred;Maul
+/startattack
+/use [form:3,stealth]Ravage;[form:3]Shred;[form:1]Maul

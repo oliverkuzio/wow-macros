@@ -1,0 +1,2 @@
+#showtooltip Healing Touch
+/use [@mouseover,help,nodead][]Healing Touch

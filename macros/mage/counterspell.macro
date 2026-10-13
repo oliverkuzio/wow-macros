@@ -1,0 +1,3 @@
+#showtooltip Counterspell
+/stopcasting
+/use [@mouseover,harm,nodead][]Counterspell

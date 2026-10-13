@@ -1,0 +1,2 @@
+#showtooltip Regrowth
+/use [@mouseover,help,nodead][]Regrowth

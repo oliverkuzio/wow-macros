@@ -1,0 +1,3 @@
+#name Hammer Justice
+#showtooltip Hammer of Justice
+/use [@mouseover,harm,nodead][]Hammer of Justice

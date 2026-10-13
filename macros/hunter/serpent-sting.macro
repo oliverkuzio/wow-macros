@@ -1,0 +1,2 @@
+#showtooltip Serpent Sting
+/use [@mouseover,harm,nodead][]Serpent Sting
